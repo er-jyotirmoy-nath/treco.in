@@ -1,0 +1,5 @@
+RewriteEngine on
+Options +FollowSymlinks
+RewriteBase /
+
+RewriteRule /smotik/([a-z]+) /myproject_smotik/smotik.php?page=$1 [R]

@@ -1,0 +1,39 @@
+    <div class="row">
+                <div class="col-lg-12">
+                     <div class="panel panel-default">
+                      <div class="panel-body" ng-controller="submitresponseCtrl">
+                          <form name="sentMessage" id="contactForm" novalidate="">
+
+                        <div class="row" ng-repeat="product in productlist | filter:filter" >
+                       
+                            <div class="col-md-12" style="margin-top: 10px;">
+                             <label>What Kind of Product Variant are you looking for in {{product.name}} ?</label>
+                             <br>
+                              <input type="checkbox" name="" ng-value="product.name" ng-model="searchParameters[product.name+product.subcat_1]">  {{product.subcat_1}}
+                           
+                            
+                              <input type="checkbox" name="" ng-value="product.name" ng-model="searchParameters[product.name+product.subcat_2]">  {{product.subcat_2}} 
+                            
+                            
+                              <input type="checkbox" name="" ng-value="product.name" ng-model="searchParameters[product.name+product.subcat_3]">  {{product.subcat_3}}
+                            
+                           
+                              <input type="checkbox" name="" ng-value="product.name" ng-model="searchParameters[product.name+product.subcat_4]">  {{product.subcat_1}}
+                            </div>
+                            
+                            
+                        </div>
+                        <br><br>
+                        <div class="clearfix"></div>
+                            <div class="col-lg-12 text-center">
+                                <div id="success"></div>
+                                <button type="submit" class="btn btn-xl pull-left" style="padding: 10px 20px;" ng-click="continueresponse()">Continue</button>
+                                <button type="button" class="btn btn-xl pull-right" style="padding: 10px 20px;" ng-click="submitresponse()">Submit</button>
+                            </div>
+                    </form>
+                        {{response}}
+                      </div>
+                        
+                    </div>
+                </div>
+            </div>

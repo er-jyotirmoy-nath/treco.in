@@ -1,0 +1,2 @@
+[28-Jul-2017 05:56:31 UTC] PHP Warning:  require_once(/home/smotik/public_html/myproject_smotik/web-admin/admin/connections/smotik_con.php): failed to open stream: No such file or directory in /home/smotik/public_html/web-admin/admin/model/account_login.php on line 15
+[28-Jul-2017 05:56:31 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/smotik/public_html/myproject_smotik/web-admin/admin/connections/smotik_con.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/smotik/public_html/web-admin/admin/model/account_login.php on line 15

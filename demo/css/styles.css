@@ -1,0 +1,91 @@
+body { background-color:#5f5f57; margin: 0; padding: 0; }
+
+#pushobj { position: absolute; top: 0px; left: 300px; color: #fff; background: #243342; font-family: 'Open Sans Condensed', sans-serif; font-size: 2em; }
+
+a:focus { outline:none; }
+.container { width:100%; background-color:#5f5f57; padding-left:0px; padding-right:0px; }
+.nav-tabs { position:fixed; /*bottom:0px;*/ top:615px; border-bottom:none; width:100%; background:#336ca6; border-top:#FFFFFF 1px solid; }
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus { border-radius:0px; background-color:#ffde45 !important; color:#000000 !important; border-top:none !important; }
+.nav-tabs > li > a { border-radius:0px; color:#ffffff; }
+.nav-tabs > li > a:hover { background-color:#ffde45; color:#000000; border-top:none; }
+
+.nav > li.active > a, .nav > li.active > a:hover, .nav > li.active > a:focus { border-radius:0px; background-color:#ffde45 !important; color:#000000 !important; border-top:none; }
+.nav > li { border-bottom:#6f99c3 1px solid; }
+.nav > li > a { color:#ffffff; }
+.nav > li > a:hover { background-color:#ffde45; color:#000000; border-top:none; border-radius:0px; }
+
+.phone-img { background:url(../images/phone.png) no-repeat right top; width:440px; height:583px; float:right; position:absolute; right:0px; /*bottom:0px;*/ top:75px; z-index:9999; padding-left:57px; padding-top:54px; }
+.phone-img ul { width:218px; height:391px; }
+
+.tab-pane img { width:100%; }
+
+.nav-stacked > li + li { margin-top:0px; }
+.cat-hdg { padding:12px 15px; color:#ffffff; font-size:20px; font-weight:bold; }
+
+.multilevelpushmenu_wrapper { position: absolute; overflow: hidden; min-width: 100%; min-height: 100%; margin: 0; 	padding: 0; }
+
+.multilevelpushmenu_wrapper .levelHolderClass { position: absolute; overflow: hidden; top: 0; background: #336ca6;
+width: auto; min-height: 100%; font-family: 'Open Sans Condensed', sans-serif; font-size: 1em; zoom: 1; }
+
+.multilevelpushmenu_wrapper .ltr { margin-left: -100%; left: 0; -moz-box-shadow: 5px 0 5px -5px #1f4164;
+-webkit-box-shadow: 5px 0 5px -5px #1f4164; box-shadow: 5px 0 5px -5px #1f4164;
+filter: progid:DXImageTransform.Microsoft.Shadow(color=#1f4164,direction=90,strength=2); }
+
+.multilevelpushmenu_wrapper .rtl { margin-right: -100%; right: 0; -moz-box-shadow: 5px 0 5px 5px #1f4164;
+-webkit-box-shadow: 5px 0 5px 5px #1f4164; box-shadow: 5px 0 5px 5px #1f4164;
+filter: progid:DXImageTransform.Microsoft.Shadow(color=#1f4164,direction=270,strength=2); }
+
+.multilevelpushmenu_wrapper .multilevelpushmenu_inactive { background: #2e6196; }
+.multilevelpushmenu_wrapper h2 { font-size: 20px; line-height: 1em; font-weight: bold; /*color: #1f4164;*/
+padding: 0 10px 0 20px; color:#ffffff; }
+.multilevelpushmenu_wrapper ul { list-style: none; padding: 0; margin: 0; }
+.multilevelpushmenu_wrapper li { cursor: pointer; border-top: 1px solid #295685; padding: .4em .4em .4em .4em; }
+.multilevelpushmenu_wrapper li:last-child { border-bottom: 1px solid #295685; }
+.multilevelpushmenu_wrapper li:hover { background-color: #295685; }
+.multilevelpushmenu_wrapper a { display: block; outline: none; overflow: hidden; font-size: 1.5em; line-height: 1em;
+padding: .2em .2em; text-decoration: none; color: #fff; }
+.multilevelpushmenu_wrapper a:hover { color: #ffe; }
+.multilevelpushmenu_wrapper .backItemClass { display: block; padding: .4em .4em .4em .4em; background: #2e6196;
+border-top: 1px solid #295685; }
+.multilevelpushmenu_wrapper .floatRight { float: right; }
+.multilevelpushmenu_wrapper .floatLeft { float: left; padding-right:7px; }
+.multilevelpushmenu_wrapper .cursorPointer { cursor: pointer; }
+.multilevelpushmenu_wrapper .iconSpacing_ltr { padding: 0 .4em 0 0; }
+.multilevelpushmenu_wrapper .iconSpacing_rtl { padding: 0 0 0 .4em; }
+
+
+.snow{
+	background: none;
+	background-image: url('../images/s4.png');
+	height: 100%;
+	right: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index:1;
+	-webkit-animation: snow 50s linear infinite;
+	-moz-animation: snow 50s linear infinite;
+	-ms-animation: snow 50s linear infinite;
+	animation: snow 50s linear infinite;
+}
+@keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
+}
+@-moz-keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 400px 1000px, 200px 400px, 100px 300px;}
+}
+@-webkit-keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
+}
+@-ms-keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
+}	

@@ -1,0 +1,43 @@
+
+<div ng-repeat="product in products | filter:filter">
+<h3 class="page-header">{{product.name}}</h3>
+
+                <div class="row">
+
+                    <div class="col-md-8">
+                        <div class="item active"><img class="img-responsive" ng-src="web-admin/admin/{{product.carousel_1}}" alt=""></div>
+                                
+                    </div>
+
+                    <div class="col-md-4 abt-txt">
+                        <h3>Description</h3>
+                        <div ng-bind-html="product.description"></div>
+                        
+                    </div>
+
+                </div>
+
+                <div class="row">
+
+                    <div class="col-lg-12">
+                        <h3 class="page-header">{{product.name}} Uses</h3>
+                    </div>
+
+                    <div class="col-sm-3 col-xs-6">
+                        <a href="#"><img class="img-responsive img-hover img-related" ng-src="web-admin/admin/{{product.use_1}}" alt=""></a>
+                    </div>
+
+                    <div class="col-sm-3 col-xs-6">
+                        <a href="#"><img class="img-responsive img-hover img-related" ng-src="web-admin/admin/{{product.use_2}}" alt=""></a>
+                    </div>
+
+                    <div class="col-sm-3 col-xs-6">
+                        <a href="#"><img class="img-responsive img-hover img-related" ng-src="web-admin/admin/{{product.use_3}}" alt=""></a>
+                    </div>
+
+                    <div class="col-sm-3 col-xs-6">
+                        <a href="#"><img class="img-responsive img-hover img-related" ng-src="web-admin/admin/{{product.use_4}}" alt=""></a>
+                    </div>
+
+                </div>      
+                </div>

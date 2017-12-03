@@ -1,0 +1,1170 @@
+[27-Jul-2017 18:24:02 UTC] PHP Warning:  require_once(/home/smotik/public_html/myproject_smotik/web-admin/admin/connections/smotik_con.php): failed to open stream: No such file or directory in /home/smotik/public_html/web-admin/admin/php/contactus_class.php on line 5
+[27-Jul-2017 18:24:02 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/smotik/public_html/myproject_smotik/web-admin/admin/connections/smotik_con.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/smotik/public_html/web-admin/admin/php/contactus_class.php on line 5
+[27-Jul-2017 18:24:14 UTC] PHP Warning:  require_once(/home/smotik/public_html/myproject_smotik/web-admin/admin/connections/smotik_con.php): failed to open stream: No such file or directory in /home/smotik/public_html/web-admin/admin/php/contactus_class.php on line 5
+[27-Jul-2017 18:24:14 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/smotik/public_html/myproject_smotik/web-admin/admin/connections/smotik_con.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/smotik/public_html/web-admin/admin/php/contactus_class.php on line 5
+[28-Jul-2017 05:55:47 UTC] PHP Warning:  require_once(/home/smotik/public_html/myproject_smotik/web-admin/admin/connections/smotik_con.php): failed to open stream: No such file or directory in /home/smotik/public_html/web-admin/admin/php/contactus_class.php on line 5
+[28-Jul-2017 05:55:47 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/smotik/public_html/myproject_smotik/web-admin/admin/connections/smotik_con.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/smotik/public_html/web-admin/admin/php/contactus_class.php on line 5
+[28-Jul-2017 05:56:32 UTC] PHP Warning:  require_once(/home/smotik/public_html/myproject_smotik/web-admin/admin/model/content_class.php): failed to open stream: No such file or directory in /home/smotik/public_html/web-admin/admin/php/aboutus_class.php on line 15
+[28-Jul-2017 05:56:32 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/smotik/public_html/myproject_smotik/web-admin/admin/model/content_class.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/smotik/public_html/web-admin/admin/php/aboutus_class.php on line 15
+[28-Jul-2017 05:56:32 UTC] PHP Warning:  require_once(/home/smotik/public_html/myproject_smotik/web-admin/admin/connections/smotik_con.php): failed to open stream: No such file or directory in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 8
+[28-Jul-2017 05:56:32 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/smotik/public_html/myproject_smotik/web-admin/admin/connections/smotik_con.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 8
+[28-Jul-2017 05:56:32 UTC] PHP Warning:  include_once(/home/smotik/public_html/myproject_smotik/web-admin/admin/php/clients_class_man.php): failed to open stream: No such file or directory in /home/smotik/public_html/web-admin/admin/php/clients_get.php on line 2
+[28-Jul-2017 05:56:32 UTC] PHP Warning:  include_once(): Failed opening '/home/smotik/public_html/myproject_smotik/web-admin/admin/php/clients_class_man.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/smotik/public_html/web-admin/admin/php/clients_get.php on line 2
+[28-Jul-2017 05:56:32 UTC] PHP Notice:  Undefined variable: new_client in /home/smotik/public_html/web-admin/admin/php/clients_get.php on line 10
+[28-Jul-2017 05:56:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getClients() on null in /home/smotik/public_html/web-admin/admin/php/clients_get.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/clients_get.php on line 10
+[28-Jul-2017 05:56:32 UTC] PHP Warning:  require_once(/home/smotik/public_html/myproject_smotik/web-admin/admin/connections/smotik_con.php): failed to open stream: No such file or directory in /home/smotik/public_html/web-admin/admin/php/news_class.php on line 9
+[28-Jul-2017 05:56:32 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/smotik/public_html/myproject_smotik/web-admin/admin/connections/smotik_con.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/smotik/public_html/web-admin/admin/php/news_class.php on line 9
+[28-Jul-2017 08:23:48 UTC] PHP Warning:  require_once(/home/smotik/public_html/myproject_smotik/web-admin/admin/connections/smotik_con.php): failed to open stream: No such file or directory in /home/smotik/public_html/web-admin/admin/model/content_class.php on line 14
+[28-Jul-2017 08:23:48 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/smotik/public_html/myproject_smotik/web-admin/admin/connections/smotik_con.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/smotik/public_html/web-admin/admin/model/content_class.php on line 14
+[28-Jul-2017 10:20:48 UTC] PHP Warning:  move_uploaded_file(/home/smotik/public_html/myproject_smotik/web-admin/admin/images/img3.jpg): failed to open stream: No such file or directory in /home/smotik/public_html/web-admin/admin/php/news_class.php on line 57
+[28-Jul-2017 10:20:48 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpu6JFLp' to '/home/smotik/public_html/myproject_smotik/web-admin/admin/images/img3.jpg' in /home/smotik/public_html/web-admin/admin/php/news_class.php on line 57
+[28-Jul-2017 10:21:04 UTC] PHP Notice:  Undefined index: image in /home/smotik/public_html/web-admin/admin/php/news_class.php on line 20
+[28-Jul-2017 10:21:04 UTC] PHP Notice:  Undefined index: image in /home/smotik/public_html/web-admin/admin/php/news_class.php on line 21
+[28-Jul-2017 10:21:25 UTC] PHP Warning:  move_uploaded_file(/home/smotik/public_html/myproject_smotik/web-admin/admin/images/img3.jpg): failed to open stream: No such file or directory in /home/smotik/public_html/web-admin/admin/php/news_class.php on line 57
+[28-Jul-2017 10:21:25 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpiTDVs3' to '/home/smotik/public_html/myproject_smotik/web-admin/admin/images/img3.jpg' in /home/smotik/public_html/web-admin/admin/php/news_class.php on line 57
+[28-Jul-2017 10:23:14 UTC] PHP Notice:  Undefined index: image in /home/smotik/public_html/web-admin/admin/php/news_class.php on line 20
+[28-Jul-2017 10:23:14 UTC] PHP Notice:  Undefined index: image in /home/smotik/public_html/web-admin/admin/php/news_class.php on line 21
+[28-Jul-2017 10:56:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.CLIENTS' doesn't exist in /home/smotik/public_html/web-admin/admin/php/clients_class_man.php:93
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/clients_class_man.php(93): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/clients_get.php(16): clients_class_man->deleteClients('5')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/clients_class_man.php on line 93
+[28-Jul-2017 10:58:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.CLIENTS' doesn't exist in /home/smotik/public_html/web-admin/admin/php/clients_class_man.php:93
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/clients_class_man.php(93): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/clients_get.php(16): clients_class_man->deleteClients('5')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/clients_class_man.php on line 93
+[28-Jul-2017 10:58:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.CLIENTS' doesn't exist in /home/smotik/public_html/web-admin/admin/php/clients_class_man.php:93
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/clients_class_man.php(93): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/clients_get.php(17): clients_class_man->deleteClients('5')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/clients_class_man.php on line 93
+[29-Jul-2017 05:39:12 UTC] PHP Notice:  Undefined index: blog_image in /home/smotik/public_html/web-admin/admin/php/blogs_man_class.php on line 20
+[29-Jul-2017 05:39:12 UTC] PHP Notice:  Undefined index: blog_image in /home/smotik/public_html/web-admin/admin/php/blogs_man_class.php on line 21
+[29-Jul-2017 05:43:33 UTC] PHP Notice:  Undefined index: blog_image in /home/smotik/public_html/web-admin/admin/php/blogs_man_class.php on line 20
+[29-Jul-2017 05:43:33 UTC] PHP Notice:  Undefined index: blog_image in /home/smotik/public_html/web-admin/admin/php/blogs_man_class.php on line 21
+[29-Jul-2017 05:58:34 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 13
+[29-Jul-2017 05:58:34 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 14
+[29-Jul-2017 05:59:22 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 13
+[29-Jul-2017 05:59:22 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 14
+[29-Jul-2017 06:02:38 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 13
+[29-Jul-2017 06:02:38 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 14
+[29-Jul-2017 06:03:36 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 13
+[29-Jul-2017 06:03:36 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 14
+[29-Jul-2017 06:06:03 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 13
+[29-Jul-2017 06:06:03 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 14
+[29-Jul-2017 06:07:41 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 13
+[29-Jul-2017 06:07:41 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 14
+[29-Jul-2017 06:09:17 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 13
+[29-Jul-2017 06:09:17 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 14
+[29-Jul-2017 06:14:43 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 13
+[29-Jul-2017 06:14:43 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 14
+[29-Jul-2017 06:17:20 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 13
+[29-Jul-2017 06:17:20 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 14
+[29-Jul-2017 06:19:34 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 13
+[29-Jul-2017 06:19:34 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 14
+[29-Jul-2017 06:20:21 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 13
+[29-Jul-2017 06:20:21 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 14
+[29-Jul-2017 06:21:28 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 13
+[29-Jul-2017 06:21:28 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 14
+[29-Jul-2017 06:24:41 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 13
+[29-Jul-2017 06:24:41 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 14
+[29-Jul-2017 06:27:01 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 13
+[29-Jul-2017 06:27:01 UTC] PHP Notice:  Undefined variable: image in /home/smotik/public_html/web-admin/admin/php/banner_man_class.php on line 14
+[31-Jul-2017 03:32:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.CLIENTS' doesn't exist in /home/smotik/public_html/web-admin/admin/php/clients_class_man.php:93
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/clients_class_man.php(93): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/clients_get.php(17): clients_class_man->deleteClients('13')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/clients_class_man.php on line 93
+[31-Jul-2017 03:32:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.CLIENTS' doesn't exist in /home/smotik/public_html/web-admin/admin/php/clients_class_man.php:93
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/clients_class_man.php(93): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/clients_get.php(17): clients_class_man->deleteClients('12')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/clients_class_man.php on line 93
+[31-Jul-2017 03:32:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.CLIENTS' doesn't exist in /home/smotik/public_html/web-admin/admin/php/clients_class_man.php:93
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/clients_class_man.php(93): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/clients_get.php(17): clients_class_man->deleteClients('13')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/clients_class_man.php on line 93
+[13-Aug-2017 07:38:12 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 49
+[13-Aug-2017 07:38:12 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 50
+[13-Aug-2017 07:38:28 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 49
+[13-Aug-2017 07:38:28 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 50
+[22-Aug-2017 09:35:50 UTC] PHP Notice:  Undefined index: blog_image in /home/smotik/public_html/web-admin/admin/php/blogs_man_class.php on line 20
+[22-Aug-2017 09:35:50 UTC] PHP Notice:  Undefined index: blog_image in /home/smotik/public_html/web-admin/admin/php/blogs_man_class.php on line 21
+[07-Sep-2017 14:27:10 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 49
+[07-Sep-2017 14:27:10 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 50
+[16-Sep-2017 05:56:26 UTC] PHP Notice:  Array to string conversion in /home/smotik/public_html/web-admin/admin/php/clients_class_man.php on line 91
+[16-Sep-2017 05:56:31 UTC] PHP Notice:  Array to string conversion in /home/smotik/public_html/web-admin/admin/php/clients_class_man.php on line 91
+[18-Sep-2017 11:28:16 UTC] PHP Notice:  Undefined index: selectedprods in /home/smotik/public_html/web-admin/admin/php/selected_prods.php on line 15
+[18-Sep-2017 11:28:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/smotik/public_html/web-admin/admin/php/selected_prods.php on line 15
+[03-Oct-2017 09:35:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/smotik/public_html/web-admin/admin/php/solutions_contact_model.php on line 6
+[03-Oct-2017 12:45:41 UTC] PHP Notice:  Undefined index: selectedprods in /home/smotik/public_html/web-admin/admin/php/selected_prods.php on line 15
+[03-Oct-2017 12:45:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/smotik/public_html/web-admin/admin/php/selected_prods.php on line 15
+[10-Nov-2017 20:41:35 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 49
+[10-Nov-2017 20:41:35 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 50
+[10-Nov-2017 20:45:20 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 49
+[10-Nov-2017 20:45:20 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 50
+[10-Nov-2017 20:46:56 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 49
+[10-Nov-2017 20:46:56 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 50
+[10-Nov-2017 20:49:22 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 49
+[10-Nov-2017 20:49:22 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 50
+[10-Nov-2017 20:52:36 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 49
+[10-Nov-2017 20:52:36 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 50
+[10-Nov-2017 20:58:15 UTC] PHP Notice:  Undefined index: prod_image_2 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 137
+[10-Nov-2017 20:58:15 UTC] PHP Notice:  Undefined index: prod_image_3 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 138
+[10-Nov-2017 20:58:15 UTC] PHP Notice:  Undefined index: prod_image_use_1 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 139
+[10-Nov-2017 20:58:15 UTC] PHP Notice:  Undefined index: prod_image_use_2 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 140
+[10-Nov-2017 20:58:15 UTC] PHP Notice:  Undefined index: prod_image_use_3 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 141
+[10-Nov-2017 20:58:15 UTC] PHP Notice:  Undefined index: prod_image_use_4 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 142
+[10-Nov-2017 20:58:15 UTC] PHP Notice:  Undefined offset: 1 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 106
+[10-Nov-2017 20:58:15 UTC] PHP Notice:  Undefined offset: 2 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 107
+[10-Nov-2017 20:58:15 UTC] PHP Notice:  Undefined offset: 3 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 108
+[10-Nov-2017 20:58:15 UTC] PHP Notice:  Undefined offset: 4 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 109
+[10-Nov-2017 20:58:15 UTC] PHP Notice:  Undefined offset: 5 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 110
+[10-Nov-2017 20:58:15 UTC] PHP Notice:  Undefined offset: 6 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 111
+[10-Nov-2017 20:59:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('19')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('19')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('20')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('20')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('20')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('20')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('19')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('19')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('19')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('19')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('19')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('19')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('19')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('20')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('20')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('20')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('21')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('21')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('21')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('21')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('21')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('21')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('21')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('21')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('24')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('24')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('24')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('24')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('25')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('25')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('25')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 20:59:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:00:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:00:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:00:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:00:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:00:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:00:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:00:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:00:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:00:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:00:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:01:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:01:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('28')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:01:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:01:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:01:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:02:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:02:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:02:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:02:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:02:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:02:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:02:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:02:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:02:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:02:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:02:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:02:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:02:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:02:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:02:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:02:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 21:47:00 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 49
+[10-Nov-2017 21:47:00 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 50
+[10-Nov-2017 21:52:25 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 49
+[10-Nov-2017 21:52:25 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 50
+[10-Nov-2017 22:04:40 UTC] PHP Notice:  Undefined index: prod_image_1 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 136
+[10-Nov-2017 22:04:40 UTC] PHP Notice:  Undefined index: prod_image_2 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 137
+[10-Nov-2017 22:04:40 UTC] PHP Notice:  Undefined index: prod_image_3 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 138
+[10-Nov-2017 22:04:40 UTC] PHP Notice:  Undefined index: prod_image_use_1 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 139
+[10-Nov-2017 22:04:40 UTC] PHP Notice:  Undefined index: prod_image_use_2 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 140
+[10-Nov-2017 22:04:40 UTC] PHP Notice:  Undefined index: prod_image_use_3 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 141
+[10-Nov-2017 22:04:40 UTC] PHP Notice:  Undefined index: prod_image_use_4 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 142
+[10-Nov-2017 22:04:40 UTC] PHP Notice:  Undefined offset: 0 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 105
+[10-Nov-2017 22:04:40 UTC] PHP Notice:  Undefined offset: 1 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 106
+[10-Nov-2017 22:04:40 UTC] PHP Notice:  Undefined offset: 2 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 107
+[10-Nov-2017 22:04:40 UTC] PHP Notice:  Undefined offset: 3 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 108
+[10-Nov-2017 22:04:40 UTC] PHP Notice:  Undefined offset: 4 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 109
+[10-Nov-2017 22:04:40 UTC] PHP Notice:  Undefined offset: 5 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 110
+[10-Nov-2017 22:04:40 UTC] PHP Notice:  Undefined offset: 6 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 111
+[10-Nov-2017 22:05:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('28')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:05:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('28')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:05:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('28')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:05:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('28')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:05:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('28')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:05:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('28')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:05:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('28')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:05:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('19')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:05:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('19')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:05:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('19')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:05:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('20')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:05:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('20')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:05:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('20')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:05:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('20')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:05:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('22')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:05:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('22')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:06:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('23')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:06:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('23')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:06:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('23')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:06:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('24')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:06:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('24')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:06:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('24')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:06:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('24')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:06:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('26')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:06:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('26')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:06:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('27')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:06:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('27')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:06:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:06:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:06:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:06:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:06:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:06:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:06:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:06:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:06:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:06:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:08:31 UTC] PHP Notice:  Undefined index: prod_image_1 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 136
+[10-Nov-2017 22:08:31 UTC] PHP Notice:  Undefined index: prod_image_2 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 137
+[10-Nov-2017 22:08:31 UTC] PHP Notice:  Undefined index: prod_image_3 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 138
+[10-Nov-2017 22:08:31 UTC] PHP Notice:  Undefined index: prod_image_use_1 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 139
+[10-Nov-2017 22:08:31 UTC] PHP Notice:  Undefined index: prod_image_use_2 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 140
+[10-Nov-2017 22:08:31 UTC] PHP Notice:  Undefined index: prod_image_use_3 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 141
+[10-Nov-2017 22:08:31 UTC] PHP Notice:  Undefined index: prod_image_use_4 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 142
+[10-Nov-2017 22:08:31 UTC] PHP Notice:  Undefined offset: 0 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 105
+[10-Nov-2017 22:08:31 UTC] PHP Notice:  Undefined offset: 1 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 106
+[10-Nov-2017 22:08:31 UTC] PHP Notice:  Undefined offset: 2 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 107
+[10-Nov-2017 22:08:31 UTC] PHP Notice:  Undefined offset: 3 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 108
+[10-Nov-2017 22:08:31 UTC] PHP Notice:  Undefined offset: 4 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 109
+[10-Nov-2017 22:08:31 UTC] PHP Notice:  Undefined offset: 5 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 110
+[10-Nov-2017 22:08:31 UTC] PHP Notice:  Undefined offset: 6 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 111
+[10-Nov-2017 22:08:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:08:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:08:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:08:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('28')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:08:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('28')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:08:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('28')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:08:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('28')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:09:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('26')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:09:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('26')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:09:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('25')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:09:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('25')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:09:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('25')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('29')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('28')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('28')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('28')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('28')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('28')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('28')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('28')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('28')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('25')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('25')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('25')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('25')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('19')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('19')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:11:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('19')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:12:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('19')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:12:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('19')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:12:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('20')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:12:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('20')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:12:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('20')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:12:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('20')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:12:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('20')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:12:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('20')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:12:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('20')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:12:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('20')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:12:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('21')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:12:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('21')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[10-Nov-2017 22:12:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('21')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[11-Nov-2017 10:55:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('19')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[11-Nov-2017 10:55:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('19')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[11-Nov-2017 10:55:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('19')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[11-Nov-2017 10:55:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('20')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[11-Nov-2017 10:55:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('24')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[11-Nov-2017 10:56:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('20')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[11-Nov-2017 10:56:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:23
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(23): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(155): prodcuts_class->DeleteProduct('27')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 23
+[12-Nov-2017 07:55:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smotik_db.PRODUCTS_TABLE' doesn't exist in /home/smotik/public_html/web-admin/admin/php/products_class.php:26
+Stack trace:
+#0 /home/smotik/public_html/web-admin/admin/php/products_class.php(26): PDOStatement->execute()
+#1 /home/smotik/public_html/web-admin/admin/php/products_class.php(158): prodcuts_class->DeleteProduct('19')
+#2 {main}
+  thrown in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 26
+[14-Nov-2017 11:58:07 UTC] PHP Notice:  Undefined index: prod_image_2 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 140
+[14-Nov-2017 11:58:07 UTC] PHP Notice:  Undefined index: prod_image_3 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 141
+[14-Nov-2017 11:58:07 UTC] PHP Notice:  Undefined index: prod_image_use_1 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 142
+[14-Nov-2017 11:58:07 UTC] PHP Notice:  Undefined index: prod_image_use_2 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 143
+[14-Nov-2017 11:58:07 UTC] PHP Notice:  Undefined index: prod_image_use_3 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 144
+[14-Nov-2017 11:58:07 UTC] PHP Notice:  Undefined index: prod_image_use_4 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 145
+[14-Nov-2017 11:58:07 UTC] PHP Notice:  Undefined offset: 1 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 109
+[14-Nov-2017 11:58:07 UTC] PHP Notice:  Undefined offset: 2 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 110
+[14-Nov-2017 11:58:07 UTC] PHP Notice:  Undefined offset: 3 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 111
+[14-Nov-2017 11:58:07 UTC] PHP Notice:  Undefined offset: 4 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 112
+[14-Nov-2017 11:58:07 UTC] PHP Notice:  Undefined offset: 5 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 113
+[14-Nov-2017 11:58:07 UTC] PHP Notice:  Undefined offset: 6 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 114
+[14-Nov-2017 11:59:56 UTC] PHP Notice:  Undefined index: prod_image_2 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 140
+[14-Nov-2017 11:59:56 UTC] PHP Notice:  Undefined index: prod_image_3 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 141
+[14-Nov-2017 11:59:56 UTC] PHP Notice:  Undefined index: prod_image_use_1 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 142
+[14-Nov-2017 11:59:56 UTC] PHP Notice:  Undefined index: prod_image_use_2 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 143
+[14-Nov-2017 11:59:56 UTC] PHP Notice:  Undefined index: prod_image_use_3 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 144
+[14-Nov-2017 11:59:56 UTC] PHP Notice:  Undefined index: prod_image_use_4 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 145
+[14-Nov-2017 11:59:56 UTC] PHP Notice:  Undefined offset: 1 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 109
+[14-Nov-2017 11:59:56 UTC] PHP Notice:  Undefined offset: 2 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 110
+[14-Nov-2017 11:59:56 UTC] PHP Notice:  Undefined offset: 3 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 111
+[14-Nov-2017 11:59:56 UTC] PHP Notice:  Undefined offset: 4 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 112
+[14-Nov-2017 11:59:56 UTC] PHP Notice:  Undefined offset: 5 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 113
+[14-Nov-2017 11:59:56 UTC] PHP Notice:  Undefined offset: 6 in /home/smotik/public_html/web-admin/admin/php/products_class.php on line 114
+[18-Nov-2017 12:22:37 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 49
+[18-Nov-2017 12:22:37 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 50
+[18-Nov-2017 12:24:00 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 49
+[18-Nov-2017 12:24:00 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 50
+[18-Nov-2017 12:31:40 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 49
+[18-Nov-2017 12:31:40 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 50
+[18-Nov-2017 12:36:59 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 49
+[18-Nov-2017 12:36:59 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 50
+[18-Nov-2017 12:39:07 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 49
+[18-Nov-2017 12:39:07 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 50
+[18-Nov-2017 12:40:45 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 49
+[18-Nov-2017 12:40:45 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 50
+[20-Nov-2017 09:13:11 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 49
+[20-Nov-2017 09:13:11 UTC] PHP Notice:  Undefined index: section_image in /home/smotik/public_html/web-admin/admin/php/entrance_class.php on line 50

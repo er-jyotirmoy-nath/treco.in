@@ -1,0 +1,16 @@
+
+
+<div class="modal-header">
+    <h3 class="modal-title">Product Detail</h3>
+</div>
+
+<div class="modal-body">
+     <label>ID: </label><span ng-bind="productdetail.id"></span><br>
+     <label>Name:</label><span ng-bind="productdetail.name"></span><br>
+     <label>Description:</label><p ng-bind-html="productdetail.description"></p>
+</div>
+
+<div class="modal-footer">
+    <button class="btn btn-primary" type="button" ng-click="ok()">OK</button>
+    
+</div>
